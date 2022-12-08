@@ -30,12 +30,12 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>nexusRepo</id>
-		    <url>http://172.31.34.153:8081/repository/maven-snapshots/</url>
+		    <url>http://172.31.37.175:8081/repository/maven-snapshots/</url>
 		 </snapshotRepository>
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://172.31.34.153:8081/repository/maven-releases/</url>
+		    <url>http://172.31.37.175:8081/repository/maven-releases/</url>
 		</repository>
   	</distributionManagement>
 	
